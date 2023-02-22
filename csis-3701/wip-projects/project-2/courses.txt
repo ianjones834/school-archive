@@ -1,7 +1,0 @@
-Fall 2022 CSIS 3701 Advanced Object Oriented Programming 3 3
-Spring 2023 CSIS 3700 Data Structures and Objects 2 3
-Summer 2023 CSIS 2610 Programming and Problem Solving 4 4
-Fall 2022 MATH 1571 Calculus I 3 4
-Spring 2023 MGT 3705 Fundamentals of Occupational Safety 2 3
-Fall 2022 CSCI 5870 Data Structures and Algorithms 5 3
-Summer 2023 CSCI 5806 Operating Systems 2 3
